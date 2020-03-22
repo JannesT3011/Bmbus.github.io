@@ -1,0 +1,22 @@
+html {
+    background-color: #1b1b1b;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: #e0f7fa;
+    font-size: 80px;
+}
+
+#text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+#pic {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
