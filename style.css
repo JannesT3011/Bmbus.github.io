@@ -16,3 +16,15 @@ h1 {
     transform: translate(-50%, -50%);
     line-height: 0;
 }
+
+img {
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+img:hover {
+    transform: scale(1.1)
+}
